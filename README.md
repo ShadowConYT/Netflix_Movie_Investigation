@@ -39,3 +39,13 @@
 5. Initialize a figure object called fig and create a scatter plot for movie duration by release year using the colors list to color the points and using the labels "Release year" for the x-axis, "Duration (min)" for the y-axis, and the title "Movie Duration by Year of Release".
 
 6. After inspecting the plot, answer the question "Are we certain that movies are getting shorter?" by assigning either "yes", "no", or "maybe" to the variable answer.
+
+## **Try Answering these Questions**
+
+1. What are the most common genres on Netflix?
+
+2. Which countries produce the most content on Netflix?
+
+3. What is the average duration of movies vs. TV shows?
+
+4. How has the release year distribution of content changed over time?
